@@ -1,4 +1,4 @@
-//async code & callback
+//Async Code & Callback
 
 const getTodos = (callback) => {
     const request = new XMLHttpRequest();
