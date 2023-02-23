@@ -1,6 +1,6 @@
 # Latihan AJAX API, Callback, Promise & Async Await
 
-### rescenic.ajaxapi.netlify.app
+### rescenic-ajaxapi.netlify.app
 
 ## I. Latihan XHR
 ![assets/img/1-latihan-xhr.png](assets/img/1-latihan-xhr.png)
